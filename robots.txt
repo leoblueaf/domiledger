@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leoblueaf.github.io/domiledger/sitemap.xml
