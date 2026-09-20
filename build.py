@@ -7,7 +7,7 @@ To set the support address everywhere, change SUPPORT_EMAIL below and rebuild.
 import pathlib
 import re
 
-SUPPORT_EMAIL = "leoblueaf@yahoo.com"
+SUPPORT_EMAIL = "domiledger.team@gmail.com"
 SITE = "https://leoblueaf.github.io/domiledger/"
 UPDATED = "September 20, 2026"
 
